@@ -1,0 +1,10 @@
+RegionID,RegionName,startx,endx,starty,endy
+1,Crescenta Valley,1,2,1,2
+2,Downtown,1,2,3,4
+3,Eastside,1,2,5,6
+4,Harbor Area,3,4,1,2
+5,Greater Hollywood,3,4,3,4
+6,Northeast LA,3,4,5,6
+7,Northwest LA,5,6,1,2
+8,San Fernando Valley,5,6,3,4
+9,South LA,5,6,5,6
